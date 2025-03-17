@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @knottycode
 - 👀 I’m interested in python
-- 🌱 I’m currently learning django
+- 🌱 I’m currently learning docker
 - 💞️ I’m looking to collaborate on something
 - 📫 How to reach me: [@knottycode](https://github.com/knottycode)
 
